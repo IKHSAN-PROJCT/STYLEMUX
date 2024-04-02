@@ -1,4 +1,4 @@
-# Style Termux Buatan Sanzproject
+add# Style Termux Buatan Sanzproject
 
 ## Deskripsi
 Tujuan saya membuat script tersebut untuk mempermudah pengguna termux.
@@ -11,6 +11,6 @@ Tujuan saya membuat script tersebut untuk mempermudah pengguna termux.
 apt update -y 
 apt install git -y
 pkg update -y
-git clone https://github.com/MR-JHONz/StyleSANZPROJ
-cd StyleSANZPROJ
+git clone https://github.com/MR-JHONz/STYLEMUX
+cd STYLEMUX
 bash termux.sh
